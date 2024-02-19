@@ -1,0 +1,21 @@
+type: code
+files:
+  - name: src/Main.java
+    visible: true
+    highlight_level: NONE
+    text: |-
+      class ArrayOperations {
+          public static int[][][] createCube() {
+              // write your code here
+      
+          }
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/12442#comment
+status: Failed
+feedback:
+  message: |
+    Failed. Wrong answer
+  time: "Sat, 10 Feb 2024 10:15:05 UTC"
+record: -1
+submission_language: java17

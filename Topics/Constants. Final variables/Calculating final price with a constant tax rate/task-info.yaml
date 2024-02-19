@@ -1,0 +1,20 @@
+type: code
+files:
+  - name: src/Main.java
+    visible: true
+    text: "import java.util.Scanner;\nimport java.text.DecimalFormat;\n\npublic class\
+    \ Main {\n\n    // Define your constant here\n\n    public static void main(String[]\
+    \ args) {\n        Scanner scanner = new Scanner(System.in);\n        // Take\
+    \ the floating point input from the user \n        double basePrice = scanner.nextDouble();\n\
+    \        // Apply the tax and calculate the final cost\n\n        // Format the\
+    \ final result to 2 decimal places\n        DecimalFormat df = new DecimalFormat(\"\
+    0.00\");\n\n        // Insert code here to print the final cost\n\n        scanner.close();\n\
+    \    }\n}"
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/41729#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Fri, 16 Feb 2024 19:42:12 UTC"
+record: -1
+submission_language: java17

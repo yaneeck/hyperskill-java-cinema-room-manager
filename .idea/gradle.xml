@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Cinema Room Manager/task" />
+            <option value="$PROJECT_DIR$/Cinema Room Manager/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Cinema Room Manager/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Cinema Room Manager/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Cinema Room Manager/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Cinema Room Manager/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Cinema Room Manager/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Constants. Final variables/Almost final variables" />
+            <option value="$PROJECT_DIR$/Topics/Constants. Final variables/Calculating final price with a constant tax rate" />
+            <option value="$PROJECT_DIR$/Topics/Constants. Final variables/Creating a constant" />
+            <option value="$PROJECT_DIR$/Topics/Constants. Final variables/Creating a constant numeric variable" />
+            <option value="$PROJECT_DIR$/Topics/Constants. Final variables/Creating a fixed message with a string and an integer" />
+            <option value="$PROJECT_DIR$/Topics/Constants. Final variables/Erroneous lines" />
+            <option value="$PROJECT_DIR$/Topics/Constants. Final variables/Final Variables and Conditionals" />
+            <option value="$PROJECT_DIR$/Topics/Constants. Final variables/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Constants. Final variables/Why does the code work" />
+            <option value="$PROJECT_DIR$/Topics/Constants. Final variables/Zero, one or more" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Calculating trapped rainwater between walls" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Classifying integers as 'Odd' or 'Even'" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Find the sum" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Select one loop" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/The maximum product of adjacent elements" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Triples" />
+            <option value="$PROJECT_DIR$/Topics/Multidimensional array/Create cube" />
+            <option value="$PROJECT_DIR$/Topics/Multidimensional array/Find the corners" />
+            <option value="$PROJECT_DIR$/Topics/Multidimensional array/Getting an element from a 3D array" />
+            <option value="$PROJECT_DIR$/Topics/Multidimensional array/Indexing rules" />
+            <option value="$PROJECT_DIR$/Topics/Multidimensional array/Practical applications" />
+            <option value="$PROJECT_DIR$/Topics/Multidimensional array/Rotate a rectangle array" />
+            <option value="$PROJECT_DIR$/Topics/Multidimensional array/The star figure" />
+            <option value="$PROJECT_DIR$/Topics/Multidimensional array/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

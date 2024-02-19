@@ -1,0 +1,22 @@
+type: code
+files:
+  - name: src/Main.java
+    visible: true
+    highlight_level: NONE
+    text: |-
+      class ArrayOperations {
+          public static void printCorners(int[][] twoDimArray) {
+              // write your code here
+      
+          }
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/12443#comment
+status: Failed
+feedback:
+  message: "Failed test #1 of 8. Runtime error\n\nError:\nException in thread \"main\"\
+    \ java.lang.ArrayIndexOutOfBoundsException: Index 2 out of bounds for length 2\n\
+    \tat ArrayOperations.main(Main.java:48)\n"
+  time: "Sat, 10 Feb 2024 14:48:19 UTC"
+record: -1
+submission_language: java17
